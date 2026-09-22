@@ -1,4 +1,4 @@
-package com.laurasalazar.app;
+package fintech;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
